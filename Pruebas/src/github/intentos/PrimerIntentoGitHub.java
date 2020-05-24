@@ -12,5 +12,9 @@ package github.intentos;
 public class PrimerIntentoGitHub {
     public static void main(String[] args){
         System.out.println("GitHub!!!");
+        
+        if (1>0){
+            System.out.println("SHIIIIT!!!");
+        }
     }
 }
